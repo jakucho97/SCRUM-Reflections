@@ -1,0 +1,3 @@
+Lista musi być posortowana priorytetowo. Elementy najwyżej umieszczone są planowane na najbliższą przyszłość, elementy niżej – na dalszy okres. 
+Zgodnie z ideą „planning horizon”, elementy najwyżej powinny być niezbyt złożone (czyli powinny być możliwie mocno rozbite), jasne, z określonymi kryteriami akceptacyjnymi. 
+Elementy niższe mogą być bardziej rozmyte i większe.
